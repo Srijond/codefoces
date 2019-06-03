@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int a[1001],i,n,j,sum=0,sum1=0;
+    int a[2002],i,n,j,sum=0,sum1=0;
     cin>>n;
     for(i=0;i<(2*n);i++)
     {
